@@ -1,0 +1,12 @@
+C:\Users\halit\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\halit\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\halit\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\halit\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\halit\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\halit\source\repos\KampIntro\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\halit\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\halit\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\halit\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\halit\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\halit\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\halit\source\repos\KampIntro\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\halit\source\repos\KampIntro\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache
