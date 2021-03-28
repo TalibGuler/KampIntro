@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{DEF5C77F-DF6C-444F-8BEA-EC749803ED9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{957A29E5-F300-42B8-A7A7-BC448598542F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{4F76522C-A8F6-4ADC-97DC-6D437FAC6245}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{DEF5C77F-DF6C-444F-8BEA-EC749803ED9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEF5C77F-DF6C-444F-8BEA-EC749803ED9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEF5C77F-DF6C-444F-8BEA-EC749803ED9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957A29E5-F300-42B8-A7A7-BC448598542F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957A29E5-F300-42B8-A7A7-BC448598542F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957A29E5-F300-42B8-A7A7-BC448598542F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957A29E5-F300-42B8-A7A7-BC448598542F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F76522C-A8F6-4ADC-97DC-6D437FAC6245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F76522C-A8F6-4ADC-97DC-6D437FAC6245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F76522C-A8F6-4ADC-97DC-6D437FAC6245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F76522C-A8F6-4ADC-97DC-6D437FAC6245}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
