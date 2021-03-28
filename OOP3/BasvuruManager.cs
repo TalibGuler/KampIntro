@@ -8,6 +8,7 @@ namespace OOP3
     {
         public void BasvuruYap(IKrediManager krediManager, ILoggerService loggerService) // hepsinin referansını tutabildiği için interface classımızı verdik.
         {
+
             //Başvuran bilgilerini değerlendirme
             krediManager.Hesapla();
             loggerService.Log();
